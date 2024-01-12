@@ -26,4 +26,4 @@ Classifier webapp dibangun dengan menggunakan Streamlit (Python-framework). Tuju
 - For Dataset [UCI](https://archive.ics.uci.edu/dataset/45/heart+disease)
 - For UI [Streamlit](https://streamlit.io/)
 
-![App](https://drive.google.com/file/d/1LjW4NPFBw41T-lpX5Pa2AxZLGiGeqZnI/view?usp=sharing/image.jpg?raw=true)
+![App](https://drive.google.com/file/d/1LjW4NPFBw41T-lpX5Pa2AxZLGiGeqZnI/view?usp=sharing/image.png?raw=true)
