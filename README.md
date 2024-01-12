@@ -23,6 +23,6 @@ Classifier webapp dibangun dengan menggunakan Streamlit (Python-framework). Tuju
 - Github
 
 # References
-- For Dataset Janosi,Andras, Steinbrunn,William, Pfisterer,Matthias, and Detrano,Robert. (1988). Heart Disease. UCI Machine Learning Repository. https://doi.org/10.24432/C52P4X.
-- For UI Streamlit
+- For Dataset [UCI](https://archive.ics.uci.edu/dataset/45/heart+disease)
+- For UI [Streamlit](https://streamlit.io/)
 
